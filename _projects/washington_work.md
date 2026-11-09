@@ -41,7 +41,3 @@ Markarian and colleagues are careful to acknowledge the limits of their data and
 As Markarian and colleagues suggest, access to the ballot box does not automatically translate into equal influence over the laws that govern daily life. This lesson feels especially timely today. With the Supreme Court narrowing portions of the Voting Rights Act and states continuing to redraw electoral maps through partisan gerrymandering, questions about equal representation remain as urgent as ever.
 
 In the end, democracy’s oldest promise of government ruled by the people is less an outcome than an ongoing question—one that continues to be answered by those who write the rules of America’s playbook, from Congress to the White House and beyond.
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
