@@ -14,7 +14,6 @@ horizontal: false
 Public-facing articles of APSA's flagship journal. You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=CTRODm8AAAAJ&hl=en).
 
 <div class="projects">
-  
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
