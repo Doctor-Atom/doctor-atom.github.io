@@ -8,9 +8,9 @@ nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=CTRODm8AAAAJ&hl=en). Public-facing articles of APSA's flagship journal.
 <!-- pages/projects.md -->
 <div class="projects">
+Public-facing articles of APSA's flagship journal.You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=CTRODm8AAAAJ&hl=en).
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
