@@ -3,7 +3,6 @@ layout: page
 title: Public Scholarship
 permalink: /public-scholarship/
 description: Public-facing articles of APSA's flagship journal. You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=CTRODm8AAAAJ&hl=en).
-
 nav: true
 nav_order: 3
 display_categories: [work, fun]
