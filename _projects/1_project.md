@@ -43,10 +43,6 @@ As Markarian and colleagues suggest, access to the ballot box does not automatic
 
 In the end, democracy’s oldest promise of government ruled by the people is less an outcome than an ongoing question—one that continues to be answered by those who write the rules of America’s playbook, from Congress to the White House and beyond.
 
-
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-
-
