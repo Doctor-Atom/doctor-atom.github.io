@@ -2,13 +2,12 @@
 layout: page
 title: Who Does Washington Really Work For?
 description: 📍July 20, 2026
-img: washington_work.png
+img: assets/img/washington_work.png
 importance: 2
 category:
 related_publications: true
 ---
 
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/washington_work.png" title="Who Does Washington Really Work For?" class="img-fluid rounded z-depth-1" %}
