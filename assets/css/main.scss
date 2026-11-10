@@ -40,18 +40,20 @@
   color: #ffffff !important;
 }
 
-/* Stanford thesis: show Link before Bib */
+/* Stanford thesis: Link first, Bib second */
 #lopez2021aire .links {
   display: flex;
   gap: 0.5rem;
 }
 
+/* Move Stanford repository link before Bib */
 #lopez2021aire .links a[href="https://purl.stanford.edu/fb676kf7097"] {
   order: -1;
-  font-size: 0;
+  font-size: 0 !important;
 }
 
+/* Display Link instead of Website */
 #lopez2021aire .links a[href="https://purl.stanford.edu/fb676kf7097"]::after {
   content: "Link";
-  font-size: 0.875rem;
+  font-size: 12px;
 }
