@@ -14,7 +14,7 @@ related_publications: true
     </div>
 </div>
 
-In the APSA Public Scholarship Program, graduate students in political science produce summaries of new research in the American Political Science Review. This piece, written by Raymundo Lopez, covers the new article by Agustin Markarian, Jacob S. Hacker, Mackenzie Lockhart, and Zoltan Hajnal, “Race, Responsiveness, and Representation in U.S. Lawmaking”.
+In the APSA Public Scholarship Program, graduate students in political science produce summaries of new research in the American Political Science Review. This piece, written by Raymundo Lopez, covers the new article by Agustin Markarian, Jacob S. Hacker, Mackenzie Lockhart, and Zoltan Hajnal, “Race, Responsiveness, and Representation in U.S. Lawmaking {% cite markarian2026race %}."
 
 Power By the People
 The ancient Greek word dēmokratia, meaning “rule by the people,” has shaped democratic practices for more than two millennia. Derived from the root words dēmos (“people”) and kratos (“power”), this simple word continues to define how we understand modern democracies, including the United States.
