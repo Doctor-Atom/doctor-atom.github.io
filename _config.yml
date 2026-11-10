@@ -10,7 +10,7 @@ contact_note: >
   Intergalactic time travel is best preferred (:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Academic website of Raymundo Lopez, a political scientist at Michigan State University, formerly at Stanford, studying American politics. Featuring research, teaching, and public scholarship through ATOM Laboratories.
-footer_text: "" 
+footer_text: ""
 # Powered by Jekyll, Mt. Dew Baja Blasts, and Babydoll Sheep.
 keywords: Raymundo Lopez, political science, American politics, ATOM Laboratories # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
