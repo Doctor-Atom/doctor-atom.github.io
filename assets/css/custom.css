@@ -1,6 +1,5 @@
 /* Keep publication venue badge text white in both themes */
-.publications .abbr .badge,
-.publications .abbr .badge div,
-.publications .abbr .badge a {
+.publications .abbr abbr.badge,
+.publications .abbr abbr.badge > div {
   color: #ffffff !important;
 }
