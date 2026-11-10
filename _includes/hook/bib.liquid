@@ -1,1 +1,3 @@
-
+{% if entry.publisher %}
+  {% capture entrytype %}{{ entrytype }} — {{ entry.publisher }}{% endcapture %}
+{% endif %}
