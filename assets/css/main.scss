@@ -39,3 +39,19 @@
 .publications .abbr abbr.badge > div {
   color: #ffffff !important;
 }
+
+/* Stanford thesis: show Link before Bib */
+#lopez2021aire .links {
+  display: flex;
+  gap: 0.5rem;
+}
+
+#lopez2021aire .links a[href="https://purl.stanford.edu/fb676kf7097"] {
+  order: -1;
+  font-size: 0;
+}
+
+#lopez2021aire .links a[href="https://purl.stanford.edu/fb676kf7097"]::after {
+  content: "Link";
+  font-size: 0.875rem;
+}
