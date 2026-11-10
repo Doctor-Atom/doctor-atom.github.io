@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: Raymundo Lopez # the website title (if blank, full name will be used instead)
 first_name: Raymundo
 middle_name:
 last_name: Lopez
@@ -10,8 +10,7 @@ contact_note: >
   Intergalactic time travel is best preferred (:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Academic website of Raymundo Lopez, a political scientist at Michigan State University, formerly at Stanford, studying American politics. Featuring research, teaching, and public scholarship through ATOM Laboratories.
-footer_text: >
-  Powered by Jekyll, Mt. Dew Baja Blasts, and Babydoll Sheep.
+footer_text: > # Powered by Jekyll, Mt. Dew Baja Blasts, and Babydoll Sheep.
 keywords: Raymundo Lopez, political science, American politics, ATOM Laboratories # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)⚛️
@@ -490,7 +489,7 @@ enable_video_embedding: false # enables video embedding for bibtex entries. If f
 # Add the url, version and integrity hash of the libraries you use in your site.
 # The integrity hash is used to ensure that the library is not tampered with.
 # Integrity hashes not provided by the libraries were generated using https://www.srihash.org/
-third_party_libraries:
+party_libraries:
   download: false # if true, download the versions of the libraries specified below and use the downloaded files
   bootstrap-table:
     integrity:
