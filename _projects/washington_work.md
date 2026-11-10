@@ -46,8 +46,6 @@ As Markarian and colleagues suggest, access to the ballot box does not automatic
 
 In the end, democracy’s oldest promise of government ruled by the people is less an outcome than an ongoing question—one that continues to be answered by those who write the rules of America’s playbook, from Congress to the White House and beyond.
 
-
 ## References
 
 Markarian, G. Agustin, Jacob S. Hacker, Mackenzie Lockhart, and Zoltan Hajnal. (2026). [**Race, Responsiveness, and Representation in U.S. Lawmaking**](https://doi.org/10.1017/S0003055425101287). *American Political Science Review*, **120**(3), 917–941.
-
