@@ -7,14 +7,14 @@ nav_order: 5
 ---
 
 <iframe
-  src="/assets/pdf/Raymundo_Lopez_CV.pdf"
+  src="/assets/pdf/Lopez_CV.pdf"
   width="100%"
   height="900px"
   style="border: none;"
   title="Curriculum Vitae">
 </iframe>
 
-[Download CV (PDF)](/assets/pdf/Raymundo_Lopez_CV.pdf)
+[Download CV (PDF)](/assets/pdf/Lopez_CV.pdf)
 
 <!--
 Original al-folio RenderCV configuration (saved for future reference):
