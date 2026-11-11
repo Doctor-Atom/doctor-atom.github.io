@@ -27,8 +27,10 @@ latest_posts:
   # limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `bio_pic.jpg` and put it in the `img/` folder.
+I study and make videos for a living.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research looks at how political conflict extends beyond the words politicians speak. I study the nonverbal and audible dimensions of political conflict in the US Congress. To do this, I use automated transcription and speaker segmentation of video recordings (think C-SPAN footage) to measure how frequently members of the House of Representatives are gaveled during congressional committee hearings. I connect this work to larger themes of political communication, representation, and political behavior.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I also translate academic research into stories by combining peer-reviewed scholarship with video and audio software. In 2023, I reviewed Alrababa’h et al.’s [“Can Exposure to Celebrities Reduce Prejudice?”](https://www.youtube.com/watch?v=sL_EGTZgZEo) and distilled the article’s methodology and findings into an accessible narrative that highlighted both its rigor and real-world implications. The following year, I adapted Erica Frantz’s [*Authoritarianism: What Everyone Needs to Know*](https://www.youtube.com/watch?v=vrfqadVzYgY) to the *Star Wars* films, illustrating how political science helps us understand the authoritarianism in George Lucas’s franchise.
+
+To keep myself happy and sane I do power yoga, swim, and feed squirrels. I also adore Babydoll sheep and goats. (:
