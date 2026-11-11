@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>South Kedzie Hall</p>
-    <p>368 Farm L</p>
+    <p>368 Farm Lane</p>
     <p>East Lansing, MI 48824</p>
 
 selected_papers: false
