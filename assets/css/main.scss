@@ -102,3 +102,11 @@
 .navbar-brand strong {
   font-weight: 400 !important;
 }
+
+/* Academic website accent color */
+a,
+a:hover,
+a:focus,
+.navbar .nav-link.active {
+  color: #B8860B !important;
+}
