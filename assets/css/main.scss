@@ -94,12 +94,11 @@
   line-height: 1.6;
   text-align: left;
 }
-.navbar-brand {
-  font-weight: 400 !important;
-}
 
-.navbar-brand b,
-.navbar-brand strong {
+/* Unbold Raymundo in the About page heading */
+.post-header .post-title,
+.post-header .post-title strong,
+.post-header .post-title b {
   font-weight: 400 !important;
 }
 
