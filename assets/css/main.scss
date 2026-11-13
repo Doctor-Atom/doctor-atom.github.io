@@ -95,10 +95,21 @@
   text-align: left;
 }
 
-/* Unbold Raymundo in the About page heading */
-.post-header .post-title,
-.post-header .post-title strong,
-.post-header .post-title b {
+/* Make Raymundo regular weight in the navbar */
+.navbar-brand,
+.navbar-brand b,
+.navbar-brand strong,
+.navbar-brand .font-weight-bold,
+.navbar-brand .fw-bold {
+  font-weight: 400 !important;
+}
+
+/* Make Raymundo regular weight on the About page */
+.post-title,
+.post-title b,
+.post-title strong,
+.post-title .font-weight-bold,
+.post-title .fw-bold {
   font-weight: 400 !important;
 }
 
