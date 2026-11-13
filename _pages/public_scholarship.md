@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Public Scholarship
+title: Teaching
 permalink: /public-scholarship/
 description:
 nav: true
@@ -10,8 +10,6 @@ horizontal: false
 ---
 
 <!-- pages/projects.md -->
-
-Public-facing articles of APSA's flagship journal. You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=CTRODm8AAAAJ&hl=en).
 
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
