@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Video Games & Revolution
-description: Michigan State University | Summer 2026 & 2025
+title: Video Games & Revolution 🎮
+description: Michigan State University | Summers 2025 & 2026
 img: assets/img/iss_325.png
 importance: 0
 category:
@@ -19,5 +19,4 @@ With Dr. Ryan Black's approval, I curated the reading material, designed the syl
 
 This remains one of my favorite courses to teach. Seeing students recognize political science concepts in the games they play is so darn rewarding. The more ways we can make political science engaging (and accessible), the better off we are as a society. 
 
-Click
-{% endraw %}
+**ISS 325: Syllabus** — [View or Download PDF]({{ '/assets/pdf/ISS_325.pdf' | relative_url }})
