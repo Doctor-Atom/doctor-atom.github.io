@@ -1,8 +1,7 @@
-
 ---
 layout: page
 title: Teaching
-permalink: /public-scholarship/
+permalink: /teaching/
 description:
 nav: true
 nav_order: 3
