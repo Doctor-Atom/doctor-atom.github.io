@@ -137,3 +137,9 @@ header .navbar,
   border-bottom: none !important;
   box-shadow: none !important;
 }
+
+/* Override al-folio's default magenta accent */
+:root {
+  --global-theme-color: #8c1515;
+  --global-hover-color: #8c1515;
+}
