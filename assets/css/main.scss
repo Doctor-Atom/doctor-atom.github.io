@@ -128,14 +128,22 @@ body:has(.navbar .nav-link.active[href*="/cv"]) .post-header {
   display: none !important;
 }
 
-/* Remove the colored line beneath the sticky navbar */
+/* Remove borders and shadows from the navbar */
 header,
-header .navbar,
 .navbar,
 .navbar.fixed-top,
 .navbar.sticky-top {
-  border-bottom: none !important;
+  border: none !important;
   box-shadow: none !important;
+}
+
+/* Hide the scroll progress line */
+#progress,
+#progress-bar,
+#scroll-progress,
+.scroll-progress,
+.scroll-progress-bar {
+  display: none !important;
 }
 
 /* Override al-folio's default magenta accent */
