@@ -16,7 +16,7 @@ nav_order: 5
 
     <a href="mailto:raymundo.g.lopez@gmail.com">
       <i class="fa-regular fa-envelope"></i>
-      Email
+      raymundo.g.lopez@gmail.com
     </a>
 
     <a href="https://www.linkedin.com/in/lopez-raymundo/" target="_blank" rel="noopener noreferrer">
@@ -28,6 +28,12 @@ nav_order: 5
        target="_blank" rel="noopener noreferrer">
       <i class="ai ai-google-scholar"></i>
       Google Scholar
+    </a>
+
+    <a href="https://www.youtube.com/@atomlabs"
+       target="_blank" rel="noopener noreferrer">
+      <i class="fa-brands fa-youtube"></i>
+      Atom Labs (YouTube)
     </a>
 
   </div>
