@@ -120,3 +120,10 @@ a:focus,
 .navbar .nav-link.active {
   color: #668b73 !important;
 }
+
+/* Hide redundant page headings on Publications, Teaching, and CV */
+body:has(.navbar .nav-link.active[href*="/publications"]) .post-header,
+body:has(.navbar .nav-link.active[href*="/teaching"]) .post-header,
+body:has(.navbar .nav-link.active[href*="/cv"]) .post-header {
+  display: none !important;
+}
