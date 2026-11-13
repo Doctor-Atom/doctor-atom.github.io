@@ -151,3 +151,43 @@ header,
   --global-theme-color: #8c1515;
   --global-hover-color: #8c1515;
 }
+
+/* =========================================
+   CONTACT PAGE — Vertical links and dividers
+   ========================================= */
+
+.contact-page {
+  max-width: 500px;
+}
+
+.contact-page .contact-links {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+  width: 100%;
+}
+
+.contact-page .contact-links a {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+
+  width: 100%;
+  padding: 14px 0;
+
+  border-bottom: 1px solid #e8e8e8;
+
+  color: var(--global-theme-color);
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.contact-page .contact-links a i {
+  width: 22px;
+  flex-shrink: 0;
+  text-align: center;
+}
+
+.contact-page .contact-links a:hover {
+  opacity: 0.75;
+}
