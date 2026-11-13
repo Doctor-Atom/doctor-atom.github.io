@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Social Science Research 🔬
-description: Michigan State University | October 2025 - June 2026
+description: Remote | October 2025 - June 2026
 img: assets/img/fli_sci.png
 importance: 1
 category:
