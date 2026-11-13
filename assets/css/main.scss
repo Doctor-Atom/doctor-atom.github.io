@@ -127,3 +127,13 @@ body:has(.navbar .nav-link.active[href*="/teaching"]) .post-header,
 body:has(.navbar .nav-link.active[href*="/cv"]) .post-header {
   display: none !important;
 }
+
+/* Remove the colored line beneath the sticky navbar */
+header,
+header .navbar,
+.navbar,
+.navbar.fixed-top,
+.navbar.sticky-top {
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
