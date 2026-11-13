@@ -13,10 +13,10 @@ category:
     </div>
 </div>
 
-I served as an Instructor of Record for *Video Games & Revolution* at Michigan State University during the summers of 2025 and 2026.
+I served as an Instructor of Record for _Video Games & Revolution_ at Michigan State University during the summers of 2025 and 2026.
 
 With Dr. Ryan Black's approval, I curated the reading material, designed the syllabus, developed the instructional module themes and related assignments, and revamped the course's video game catalog.
 
-This remains one of my favorite courses to teach. Seeing students recognize political science concepts in the games they play is so darn rewarding. The more ways we can make political science engaging (and accessible), the better off we are as a society. 
+This remains one of my favorite courses to teach. Seeing students recognize political science concepts in the games they play is so darn rewarding. The more ways we can make political science engaging (and accessible), the better off we are as a society.
 
 **ISS 325: Syllabus** — [View or Download PDF]({{ '/assets/pdf/ISS_325.pdf' | relative_url }})
